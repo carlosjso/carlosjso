@@ -25,9 +25,3 @@
 <img align="right" height="150" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif"  />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/carlosjso/carlosjso/snake.yml" alt="Snake animation" />
-
-###
